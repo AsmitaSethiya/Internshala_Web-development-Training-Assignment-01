@@ -8,6 +8,9 @@ This is a web page contains three sections:
 1. Header
 2. Content
 3. Footer
+
+
+
 Header: This is the first section of the webpage and it contains the “The Lifestyle Store” as a website
 name and navigation links to login and signup page.
 Content: This section has two parts banner image with a Shop Now button over it and item category
